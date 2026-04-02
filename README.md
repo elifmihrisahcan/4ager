@@ -1,4 +1,4 @@
-# 4ager
+
 
 A command-line field tool for mushroom foragers. Identify species by traits, check what's fruiting in your region, and get full edibility and safety profiles before you eat anything.
 
